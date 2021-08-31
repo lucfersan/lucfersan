@@ -22,5 +22,3 @@
   <a href="https://instagram.com/lucfersan11" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:fernandes.lucas11@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
 </div>
-
-![Snake animation](https://github.com/lucfersan/lucfersan/blob/output/github-contribution-grid-snake.svg)
